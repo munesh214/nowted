@@ -16,7 +16,7 @@ const Delete = ({
     if (confirm(`Are You sure you want to delete this folder?`)) {
       await deleteFolder(id);
       alert("Folder Deleted Successfull!");
-      refetch();
+      await refetch();
       navigate("/");
     }
   };
