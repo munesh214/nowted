@@ -6,7 +6,7 @@
     --color-theme-light-black: #1C1C1C; 
     --color-theme-unselect: rgba(255, 255, 255, 0.03);
     --color-theme-light-grey : rgba(255, 255, 255, 0.6);
-    --color-theme-recents-active: rgba(49, 46, 181, 1);
+    --color-theme-recents-active: green;
     --color-theme-notelist-hover: rgba(255, 255, 255, 0.1);
     --color-theme-drop-color:rgba(51, 51, 51, 1);
 }
